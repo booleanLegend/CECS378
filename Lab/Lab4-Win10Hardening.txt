@@ -1,0 +1,257 @@
+
+Microsoft (R) Windows (R) Operating System Group Policy Result tool v2.0
+c 2020 Microsoft Corporation. All rights reserved.
+
+Created on ?3/?16/?2021 at 8:24:34 PM
+
+
+RSOP data for DESKTOP-O6C0BPH\windows on DESKTOP-O6C0BPH : Logging Mode
+------------------------------------------------------------------------
+
+OS Configuration:            Standalone Workstation
+OS Version:                  10.0.19042
+Site Name:                   N/A
+Roaming Profile:             N/A
+Local Profile:               C:\Users\windows
+Connected over a slow link?: No
+
+
+COMPUTER SETTINGS
+------------------
+    
+    Last time Group Policy was applied: 3/16/2021 at 8:13:11 PM
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+    Domain Name:                        DESKTOP-O6C0BPH
+    Domain Type:                        <Local Computer>
+
+    Applied Group Policy Objects
+    -----------------------------
+        Local Group Policy
+
+    The computer is a part of the following security groups
+    -------------------------------------------------------
+        BUILTIN\Administrators
+        Everyone
+        NT AUTHORITY\Authenticated Users
+        System Mandatory Level
+        
+    Resultant Set Of Policies for Computer
+    ---------------------------------------
+
+        Software Installations
+        ----------------------
+            N/A
+
+        Startup Scripts
+        ---------------
+            N/A
+
+        Shutdown Scripts
+        ----------------
+            N/A
+
+        Account Policies
+        ----------------
+            N/A
+
+        Audit Policy
+        ------------
+            N/A
+
+        User Rights
+        -----------
+            N/A
+
+        Security Options
+        ----------------
+            N/A
+
+            N/A
+
+        Event Log Settings
+        ------------------
+            N/A
+
+        Restricted Groups
+        -----------------
+            N/A
+
+        System Services
+        ---------------
+            N/A
+
+        Registry Settings
+        -----------------
+            N/A
+
+        File System Settings
+        --------------------
+            N/A
+
+        Public Key Policies
+        -------------------
+            N/A
+
+        Administrative Templates
+        ------------------------
+            GPO: Local Group Policy
+                Folder Id: Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoDriveTypeAutoRun
+                Value:       255, 0, 0, 0
+                State:       Enabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows NT\Terminal Services\fAllowToGetHelp
+                Value:       0, 0, 0, 0
+                State:       Enabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows NT\Terminal Services\fUseMailto
+                State:       disabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows NT\Terminal Services\fAllowFullControl
+                State:       disabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows\Installer\AlwaysInstallElevated
+                Value:       0, 0, 0, 0
+                State:       Enabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows NT\Terminal Services\MaxTicketExpiryUnits
+                State:       disabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoAutorun
+                Value:       1, 0, 0, 0
+                State:       Enabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows\WinRM\Client\AllowBasic
+                Value:       0, 0, 0, 0
+                State:       Enabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows NT\Terminal Services\MaxTicketExpiry
+                State:       disabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows\Explorer\NoAutoplayfornonVolume
+                Value:       1, 0, 0, 0
+                State:       Enabled
+
+            GPO: Local Group Policy
+                Folder Id: Software\policies\Microsoft\Windows\WinRM\Service\AllowBasic
+                Value:       0, 0, 0, 0
+                State:       Enabled
+
+
+USER SETTINGS
+--------------
+    
+    Last time Group Policy was applied: 3/16/2021 at 8:13:20 PM
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+    Domain Name:                        DESKTOP-O6C0BPH
+    Domain Type:                        <Local Computer>
+    
+    Applied Group Policy Objects
+    -----------------------------
+        N/A
+
+    The following GPOs were not applied because they were filtered out
+    -------------------------------------------------------------------
+        Local Group Policy
+            Filtering:  Not Applied (Empty)
+
+    The user is a part of the following security groups
+    ---------------------------------------------------
+        None
+        Everyone
+        Local account and member of Administrators group
+        BUILTIN\Administrators
+        BUILTIN\Users
+        NT AUTHORITY\INTERACTIVE
+        CONSOLE LOGON
+        NT AUTHORITY\Authenticated Users
+        This Organization
+        Local account
+        LOCAL
+        NTLM Authentication
+        High Mandatory Level
+        
+    The user has the following security privileges
+    ----------------------------------------------
+
+        Bypass traverse checking
+        Manage auditing and security log
+        Back up files and directories
+        Restore files and directories
+        Change the system time
+        Shut down the system
+        Force shutdown from a remote system
+        Take ownership of files or other objects
+        Debug programs
+        Modify firmware environment values
+        Profile system performance
+        Profile single process
+        Increase scheduling priority
+        Load and unload device drivers
+        Create a pagefile
+        Adjust memory quotas for a process
+        Remove computer from docking station
+        Perform volume maintenance tasks
+        Impersonate a client after authentication
+        Create global objects
+        Change the time zone
+        Create symbolic links
+        Obtain an impersonation token for another user in the same session
+        Increase a process working set
+
+    Resultant Set Of Policies for User
+    -----------------------------------
+
+        Software Installations
+        ----------------------
+            N/A
+
+        Logon Scripts
+        -------------
+            N/A
+
+        Logoff Scripts
+        --------------
+            N/A
+
+        Public Key Policies
+        -------------------
+            N/A
+
+        Administrative Templates
+        ------------------------
+            N/A
+
+        Folder Redirection
+        ------------------
+            N/A
+
+        Internet Explorer Browser User Interface
+        ----------------------------------------
+            N/A
+
+        Internet Explorer Connection
+        ----------------------------
+            N/A
+
+        Internet Explorer URLs
+        ----------------------
+            N/A
+
+        Internet Explorer Security
+        --------------------------
+            N/A
+
+        Internet Explorer Programs
+        --------------------------
+            N/A
